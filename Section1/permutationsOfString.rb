@@ -1,0 +1,1 @@
+print %w[S u r a j].permutation.map &:join
