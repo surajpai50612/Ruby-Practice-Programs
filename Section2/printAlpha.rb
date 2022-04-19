@@ -1,0 +1,1 @@
+print ('A'..'Z').to_a # .to_a to display elements in given range and convert to array
